@@ -1,0 +1,28 @@
+h1{
+    font-weight: 700;
+    font-size: 45px;
+    margin: 10px;
+    margin-bottom: 20px;
+    background-color: aqua;
+}
+input{
+    width: 100%;
+
+}
+.todo-container{
+    
+}
+.items-container{
+    text-align: left;
+
+}
+
+.kg-row{
+    margin: 10px 5px;
+
+}
+
+.bpbutton{
+     min-width: 80px;
+
+}
